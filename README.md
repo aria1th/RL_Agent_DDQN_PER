@@ -26,3 +26,6 @@ Agent can stop training with time_limit (seconds), epoch_limit (epochs), episode
 for testing your model, just simply:
 `agent.test()`
 will test your model.
+
+# Note
+recent GYM might require pyglet 1.5.26, install with pip install pyglet=1.5.26
